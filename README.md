@@ -40,6 +40,5 @@ A complete Power BI dashboard built using the Superstore dataset to analyze sale
 - Report Layout and Interactivity
 - Data Storytelling
 
-
-## 📁 File
-"C:\Users\manvi\OneDrive\Documents\superstore sales dashboard ( powerbi).pbix"
+## End Note 
+This dashboard demonstrates the analysis of sales data and effective use of PowerBI for interactive reporting .
